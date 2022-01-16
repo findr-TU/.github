@@ -20,6 +20,7 @@ Some of the functionalities(for students) that we are working on are:</r>
 and more...
 
 </br><h1>Goals</h1>
+We want Findr.TU to be the new normal when it comes to doing stuff in TIET. A hazel free method of doing everything by students, teachers, admins, drivers, cafe owners, parents and more. Achieving this is no easy task, so we are always looking for support from our own college students in order to make a sustainable community who runs this.
 
 </br><h1> If this idea interests you: </h1>
 We are in the process of creating a self managed community of students from TIET who share our vision and want to contribute to this initiative in any way possible. Anyone interesed can contact Aryan Sethi at 
